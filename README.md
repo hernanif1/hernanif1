@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi there, I'm Hernani Fernandes 👋
 
-<!--
-**hernanif1/hernanif1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernani-fernandes/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hernanifernandes/)
 
-Here are some ideas to get you started:
+## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I just rebuilding my office so I can start recording online lessons
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to design and play piano / bass
+<br />
+
+### Languages and Tools:
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Sass" width="26px" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://user-images.githubusercontent.com/1771727/131647478-f7a5e3ea-2c15-45b6-85ed-1ecf2908c74c.png" />
+<img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/1771727/131647346-19d76d43-2fbb-4c49-b0f6-28c306a6c64f.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
+
+### 📕 Latest Articles ands keynotes
+- [3 tips to learn even without skills - in Dutch](https://www.linkedin.com/pulse/3-tips-om-nieuwe-dingen-te-leren-als-je-zelf-geen-talent-fernandes/?trackingId=AG49yizV8RGdO69dLNX8FQ%3D%3D)
+- [Common UseEffects mistakes that even seniors are making](https://dev.to/hernanif1/common-useeffects-mistakes-that-even-seniors-are-making-3o9g)
+- [About dreams - in Dutch](https://www.linkedin.com/pulse/wat-een-droom-hernani-fernandes/)
+- [Easier api layer in Frontend](https://docs.google.com/presentation/d/1nNvaW9obFEOd75akpiOdU8PjClrQ53Xyqcm5g9qcBWI)
+- [Deploy your app on Fridays and sleep weel - Cypress](https://docs.google.com/presentation/d/1YD72HTmBkX-Cphvua7peWc1g-BH7XHWet23aCdlZv5o/)
+- [Learning to learn languages](https://docs.google.com/presentation/d/1UTKsoAW0dfC7wd1oKqx74NRMrYXDJs8Ag5XwUGu4QZM/)
+
+
