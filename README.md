@@ -12,7 +12,7 @@
 
 ## 2022
 - [ ] Create an API with Kotlin
-- [ ] Use Prisma ORM in one project
+- [x] Use Prisma ORM in one project
 - [ ] Improve my CRUD example project
 - [ ] Contribute to Open source projects
 - [ ] Create 1 article each month
