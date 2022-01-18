@@ -7,9 +7,16 @@
 
 - 🔭 I just rebuilding my office so I can start recording online lessons
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design and play piano / bass
+
+
+## 2022
+- [ ] Create an API with Kotlin
+- [ ] Use Prisma ORM in one project
+- [ ] Improve my CRUD example project
+- [ ] Contribute to Open source projects
+- [ ] Create 1 article each month
+- [ ] Create a NFT example project
 <br />
 
 ### Languages and Tools:
