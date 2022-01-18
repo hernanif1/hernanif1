@@ -17,6 +17,7 @@
 - [ ] Contribute to Open source projects
 - [ ] Create 1 article each month
 - [ ] Create a NFT example project
+- [ ] Implement a design token flow
 <br />
 
 ### Languages and Tools:
