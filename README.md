@@ -6,8 +6,8 @@
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just rebuilding my office so I can start recording online lessons
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to design and play piano / bass
+- 🌱 I’m currently trying to follow my goals for 2022 🤣
+- ⚡ Fun fact: I love UX/UI design and play piano / bass
 
 
 ## 2022
