@@ -18,6 +18,7 @@
 - [ ] Create 1 article each month
 - [ ] Create a NFT example project
 - [ ] Implement a design token flow
+- [ ] Try out remix.js react framework
 <br />
 
 ### Languages and Tools:
