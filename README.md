@@ -15,6 +15,7 @@
 - [x] Use Prisma ORM in one project
 - [ ] Improve my CRUD example project
 - [ ] Contribute to Open source projects
+- [ ] Experiment RUST
 - [ ] Create 1 article each month
 - [ ] Create a NFT example project
 - [ ] Implement a design token flow
