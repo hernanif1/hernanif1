@@ -13,6 +13,7 @@
 ## 2022
 - [ ] Create an API with Kotlin
 - [x] Use Prisma ORM in one project
+- [ ] Create a PWA project
 - [ ] Improve my CRUD example project
 - [ ] Contribute to Open source projects
 - [ ] Experiment RUST
