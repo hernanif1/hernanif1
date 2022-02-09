@@ -22,6 +22,11 @@
 - [ ] Implement a design token flow
 - [ ] Try out remix.js react framework
 - [ ] Create new design items for my portfolio
+
+
+Maybe 
+- [ ] Study a bit about Terraform
+- [ ] Learn kubernates
 <br />
 
 ### Languages and Tools:
