@@ -22,6 +22,7 @@
 - [ ] Implement a design token flow
 - [ ] Try out remix.js react framework
 - [ ] Create new design items for my portfolio
+- [ ] webcomponents
 
 
 Maybe 
