@@ -16,18 +16,19 @@
 - [ ] Create a PWA project
 - [ ] Improve my CRUD example project
 - [ ] Contribute to Open source projects
-- [ ] Experiment RUST
 - [ ] Create 1 article each month
 - [ ] Create a NFT example project
 - [ ] Implement a design token flow
 - [ ] Try out remix.js react framework
 - [ ] Create new design items for my portfolio
 - [ ] webcomponents
-
+- [ ] compare playright vs cypress
+- [ ] try new css libs/frameworks tailwind, radix-ui, stitches, emotion
 
 Maybe 
 - [ ] Study a bit about Terraform
 - [ ] Learn kubernates
+- [ ] Experiment RUST
 <br />
 
 ### Languages and Tools:
