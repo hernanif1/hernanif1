@@ -22,6 +22,7 @@
 - [x] Try out remix.js react framework
 - [ ] Create new design items for my portfolio
 - [ ] webcomponents
+- [ ] Mijn Nederlands verberen!
 - [ ] compare playright vs cypress
 - [x] try new css libs/frameworks tailwind, radix-ui, stitches, emotion
 
