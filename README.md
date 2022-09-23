@@ -7,7 +7,7 @@
 
 - 🔭 I just rebuilding my office so I can start recording online lessons
 - 🌱 I’m currently trying to follow my goals for 2022 🤣
-- ⚡ Fun fact: I love UX/UI design and play piano / bass
+- ⚡ Fun fact: I love UX/UI design and play piano / bass and video game! 
 
 
 ## 2022
