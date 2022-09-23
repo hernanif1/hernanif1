@@ -17,12 +17,12 @@
 - [ ] Improve my CRUD example project
 - [ ] Contribute to Open source projects
 - [ ] Create 1 article each month
-- [ ] Create a NFT example project
+- [x] Create a NFT example project
 - [ ] Implement a design token flow
 - [x] Try out remix.js react framework
 - [ ] Create new design items for my portfolio
-- [ ] webcomponents
-- [ ] Mijn Nederlands verberen!
+- [ ] Webcomponents
+- [x] Mijn Nederlands verberen!
 - [ ] compare playright vs cypress
 - [x] try new css libs/frameworks tailwind, radix-ui, stitches, emotion
 
@@ -30,6 +30,14 @@ Maybe
 - [ ] Study a bit about Terraform
 - [ ] Learn kubernates
 - [ ] Experiment RUST
+
+Not planned 
+- [x] Host and present a meetup in Eindhoven
+- [x] Learn Protobuf
+- [x] Introduction and using Google Cloud
+- [x] Vite + React
+- [x] Flutter
+
 <br />
 
 ### Languages and Tools:
