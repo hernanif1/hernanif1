@@ -62,6 +62,8 @@ Not planned
 ---
 
 ### 📕 Latest Articles ands keynotes
+- [React-native 0.68 with new architecture](https://xebia.com/blog/react-native-68-with-new-architecture/)
+- [New React 18 features and changes](https://xebia.com/blog/new-react-18-features-and-changes/)
 - [3 tips to learn even without skills - in Dutch](https://www.linkedin.com/pulse/3-tips-om-nieuwe-dingen-te-leren-als-je-zelf-geen-talent-fernandes/?trackingId=AG49yizV8RGdO69dLNX8FQ%3D%3D)
 - [Common UseEffects mistakes that even seniors are making](https://dev.to/hernanif1/common-useeffects-mistakes-that-even-seniors-are-making-3o9g)
 - [About dreams - in Dutch](https://www.linkedin.com/pulse/wat-een-droom-hernani-fernandes/)
