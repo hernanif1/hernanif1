@@ -37,6 +37,7 @@ Not planned
 - [x] Introduction and using Google Cloud
 - [x] Vite + React
 - [x] Flutter
+- [x] Try out Qwik
 
 <br />
 
