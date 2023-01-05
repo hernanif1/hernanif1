@@ -9,14 +9,31 @@
 - 🌱 I’m currently trying to follow my goals for 2022 🤣
 - ⚡ Fun fact: I love UX/UI design and play piano / bass and video game! 
 
+## 2023
+- [ ] Create an API with Kotlin
+- [ ] Create a PWA project
+- [ ] Learn RUST with Chat GPT
+- [ ] Write some articles
+- [ ] Organise React on the Beach conference
+- [ ] Host and present a meetup in Eindhoven
+- [ ] Inburgerin examen (Nederland dutch exam)
+- [ ] Implement a design token flow
+- [ ] Create new design items for my portfolio
+- [x] Astro framework
+- [ ] Svelte and SveltKit framework
+- [ ] Webcomponents
+- [ ] Compare playright vs cypress
+- [ ] Study a bit about Terraform
+- [ ] Learn kubernates
+
 
 ## 2022
 - [ ] Create an API with Kotlin
 - [x] Use Prisma ORM in one project
 - [ ] Create a PWA project
 - [ ] Improve my CRUD example project
-- [ ] Contribute to Open source projects
-- [ ] Create 1 article each month
+- [x] Contribute to Open source projects
+- [x] Create 1 article each month
 - [x] Create a NFT example project
 - [ ] Implement a design token flow
 - [x] Try out remix.js react framework
@@ -25,13 +42,6 @@
 - [x] Mijn Nederlands verberen!
 - [ ] compare playright vs cypress
 - [x] try new css libs/frameworks tailwind, radix-ui, stitches, emotion
-
-Maybe 
-- [ ] Study a bit about Terraform
-- [ ] Learn kubernates
-- [ ] Experiment RUST
-
-Not planned 
 - [x] Host and present a meetup in Eindhoven
 - [x] Learn Protobuf
 - [x] Introduction and using Google Cloud
