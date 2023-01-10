@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I love UX/UI design and play piano / bass and video game! 
 
 ## 2023
-- [ ] Create an API with Kotlin
+- [ ] Create an API with Kotlin (reactive/ kafka / K8s)
+- [ ] Improve my UX/UI
 - [ ] Create a PWA project
 - [ ] Learn RUST with Chat GPT
 - [ ] Write some articles
