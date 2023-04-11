@@ -15,15 +15,15 @@
 - [ ] Create a PWA project
 - [ ] Learn RUST with Chat GPT
 - [ ] Write some articles
-- [ ] Organise React on the Beach conference
-- [ ] Host and present a meetup in Eindhoven
+- [x] Organise React on the Beach conference
+- [x] Host and present some meetups in Eindhoven
 - [ ] Inburgerin examen (Nederland dutch exam)
 - [ ] Implement a design token flow
 - [ ] Create new design items for my portfolio
 - [x] Astro framework
-- [ ] Svelte and SveltKit framework
+- [x] Svelte and SveltKit framework
 - [ ] Webcomponents
-- [ ] Compare playright vs cypress
+- [x] Compare playright vs cypress
 - [ ] Study a bit about Terraform
 - [ ] Learn kubernates
 
