@@ -32,14 +32,13 @@
 - [ ] Create an API with Kotlin
 - [x] Use Prisma ORM in one project
 - [ ] Create a PWA project
-- [ ] Improve my CRUD example project
 - [x] Contribute to Open source projects
 - [x] Create 1 article each month
 - [x] Create a NFT example project
-- [ ] Implement a design token flow
+- [x] Implement a design token flow
 - [x] Try out remix.js react framework
 - [ ] Create new design items for my portfolio
-- [ ] Webcomponents
+- [x] Webcomponents
 - [x] Mijn Nederlands verberen!
 - [ ] compare playright vs cypress
 - [x] try new css libs/frameworks tailwind, radix-ui, stitches, emotion
