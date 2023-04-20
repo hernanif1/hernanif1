@@ -11,18 +11,18 @@
 
 ## 2023
 - [ ] Create an API with Kotlin (reactive/ kafka / K8s)
-- [ ] Improve my UX/UI
+- [X] Improve my UX/UI
 - [ ] Create a PWA project
 - [ ] Learn RUST with Chat GPT
 - [ ] Write some articles
 - [x] Organise React on the Beach conference
 - [x] Host and present some meetups in Eindhoven
 - [ ] Inburgerin examen (Nederland dutch exam)
-- [ ] Implement a design token flow
+- [X] Implement a design token flow
 - [ ] Create new design items for my portfolio
 - [x] Astro framework
 - [x] Svelte and SveltKit framework
-- [ ] Webcomponents
+- [X] Webcomponents
 - [x] Compare playright vs cypress
 - [ ] Study a bit about Terraform
 - [ ] Learn kubernates
