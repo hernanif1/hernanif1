@@ -15,6 +15,8 @@
 - [ ] Create a PWA project
 - [ ] Learn RUST with Chat GPT
 - [ ] Write some articles
+- [ ] Create a Flutter APP
+- [ ] Create an frontend app with Rust 
 - [x] Organise React on the Beach conference
 - [x] Host and present some meetups in Eindhoven
 - [ ] Inburgerin examen (Nederland dutch exam)
