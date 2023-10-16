@@ -14,8 +14,8 @@
 - [X] Improve my UX/UI
 - [ ] Create a PWA project
 - [ ] Learn RUST with Chat GPT
-- [ ] Write some articles
-- [ ] Create a Flutter APP
+- [x] Write some articles
+- [x] Create a Flutter APP
 - [ ] Create an frontend app with Rust 
 - [x] Organise React on the Beach conference
 - [x] Host and present some meetups in Eindhoven
@@ -26,7 +26,7 @@
 - [x] Svelte and SveltKit framework
 - [X] Webcomponents
 - [x] Compare playright vs cypress
-- [ ] Study a bit about Terraform
+- [x] Study a bit about Terraform
 - [ ] Learn kubernates
 
 
