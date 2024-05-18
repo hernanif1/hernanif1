@@ -8,6 +8,13 @@
 - 🔭 I just rebuilding my office so I can start recording online lessons
 - 🌱 I’m currently trying to follow my goals for 2022 🤣
 - ⚡ Fun fact: I love UX/UI design and play piano / bass and video game! 
+## 2024
+- [x] Improve my Go Lang skills
+- [X] Join a Intensive dutch training week
+- [ ] Google Cloud certification 
+- [x] Host and present some meetups in Eindhoven
+- [x] Inburgerin examen (Nederland dutch exam)
+- [ ] Algolia certification
 
 ## 2023
 - [ ] Create an API with Kotlin (reactive/ kafka / K8s)
