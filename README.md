@@ -7,7 +7,15 @@
 
 - 🔭 I just rebuilding my office so I can start recording online lessons
 - 🌱 I’m currently trying to follow my goals for 2022 🤣
-- ⚡ Fun fact: I love UX/UI design and play piano / bass and video game! 
+- ⚡ Fun fact: I love UX/UI design and play piano / bass and video game!
+
+  ## 2025
+- [ ] Improve my Java skills
+- [ ] Keep updated with React / Native / NextJS
+- [ ] Google Cloud training 
+- [ ] Host and present some meetups
+
+
 ## 2024
 - [x] Improve my Go Lang skills
 - [X] Join a Intensive dutch training week
